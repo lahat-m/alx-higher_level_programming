@@ -1,0 +1,3 @@
+
+#!/bin/bash
+n3 -c "$PYCODE"
