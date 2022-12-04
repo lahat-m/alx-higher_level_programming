@@ -1,3 +1,4 @@
 #!/usr/bin/node
-let lines = "C is fun\nPython is cool\nJavaScript is amazing"
-console.log(lines);
+console.log('C is fun');
+console.log('Python is cool');
+console.log('JavaScript is amazing');
